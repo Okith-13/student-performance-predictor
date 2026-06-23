@@ -49,7 +49,7 @@ student-performance-predictor/
 
 ### 1. Clone & Install
 ```bash
-git clone https://github.com/yourusername/student-performance-predictor.git
+git clone https://github.com/Okith-13/student-performance-predictor.git
 cd student-performance-predictor
 pip install -r requirements.txt
 ```
